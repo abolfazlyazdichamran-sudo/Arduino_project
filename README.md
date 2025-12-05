@@ -9,6 +9,7 @@ Arduino LED Control (Pin 13)
 کابل USB
 نیاز به led نیست (led)داخلی
 🧩 کد
+
 int led = 13;
 
 void setup() {
@@ -18,6 +19,7 @@ void setup() {
 void loop() {
   digitalWrite(led, HIGH);
 }
+
 
 🚀 نحوه اجرا
 
